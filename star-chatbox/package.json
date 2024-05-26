@@ -1,0 +1,21 @@
+{
+  "name": "star-chatbox",
+  "version": "1.0.0",
+  "description": "simple blog chatbox",
+  "main": "chatbox.js",
+  "scripts": {
+    "start": "./index.html",
+    "dev": "./component/chatbot.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HeshiyaGaya3/star-chatbox.git"
+  },
+  "author": "Heshiya, Likith",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HeshiyaGaya3/star-chatbox/issues"
+  },
+  "homepage": "https://github.com/HeshiyaGaya3/star-chatbox#readme"
+}
